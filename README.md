@@ -1,2 +1,2 @@
 # Electrical-Parameters-Calculator-V-I-R-
-Electrical Parameters like (V/I/R/P) calculator using Python Jupyter Notebook. For user friendly Inputs are in widgets format.
+Calculates Electrical Parameters such as V/I/R using Python Jupyter Notebook. For user friendly Inputs are in widgets format.
